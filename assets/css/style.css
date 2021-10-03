@@ -230,6 +230,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .get-started-btn:hover {
   background:   #820e2a;
+  /* background: #c1209f; */
   color: #fff;
 }
 
